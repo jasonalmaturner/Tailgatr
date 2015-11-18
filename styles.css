@@ -1,0 +1,106 @@
+/******************
+GENERAL
+******************/
+body, .navbar {
+  background: white;
+  border: none;
+}
+
+/******************
+HEADER
+******************/
+.header h1 {
+  font-size: 5em;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top: 12%;
+  margin-left: 2%;
+  color: darkred;
+}
+
+.nav div {
+  font-size: 1.8em;
+  margin-top: 7%;
+}
+
+.nav a {
+  font-family: 'Cinzel', sans-serif;
+  text-decoration: none;
+  color: darkred;
+}
+
+/******************
+IMAGES
+******************/
+
+/******************
+HOMEPAGE
+******************/
+.homepage p {
+  font-size: 3em;
+  font-family: 'Cinzel', sans-serif;
+  font-weight: bold;
+  color: darkred;
+  text-align: center;
+  margin: 5% 0;
+}
+
+/******************
+RESERVE
+******************/
+.form {
+  font-size: 1.5em;
+}
+
+.form-group {
+  margin-bottom: 3%;
+}
+
+.form label, .instructions {
+  text-align: left;
+  font-family: 'Cinzel', sans-serif;
+  color: darkred;
+}
+
+.instructions {
+  line-height: 2;
+}
+
+select {
+  margin-bottom: 3%;
+}
+
+#map-canvas {
+  margin-top: 2%;
+  height: 625px;
+  margin-bottom: 2%;
+}
+
+button {
+  margin-top: 2%;
+}
+
+/******************
+CONTACT
+******************/
+.contact {
+  margin: 5% auto;
+}
+
+.contact p {
+  font-size: 2em;
+  line-height: 2;
+  margin-top: 5%;
+  font-family: 'Cinzel', sans-serif;
+  color: darkred;
+}
+
+/******************
+FOOTER
+******************/
+footer p {
+  font-family: 'Cinzel', sans-serif;
+  color: darkred;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
